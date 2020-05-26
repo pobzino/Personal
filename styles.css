@@ -1,0 +1,36 @@
+body{text-align: center;
+background-color: #cceabb;}
+.logo{position: static;}
+.intro{background-color: #cceabb;
+  margin: 0;
+padding-top: 90px}
+.middle{height: 200px;
+width: 200px;
+background-color: blue;}
+.bottom{height: 200px;
+width: 200px;
+background-color:green;
+position: absolute; left: 200px;}
+.boom{margin: 0;height: 200px;
+width: 200px;
+background-color:red;
+position:relative;left: 400px; top:200px}
+.mountain{position: static;
+  bottom: 0;
+height: 300; width: 30%;
+margin-bottom:0}
+  .cloud-1{position: absolute;
+  ;top: 240px; right: 880px}
+  .pe{position: static; }
+  .cloud-2{position: absolute;bottom: 510px;left: 880px}
+body{margin:0;}
+h1{margin: auto; width: 40%;
+font-family: 'Press Start 2P', cursive;}
+h3{font-family: 'Arima Madurai', cursive;}
+p{font-family: 'Arima Madurai', cursive;}
+hr {border-style: none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: thick;
+    width: 5%;
+    height: 7%;}
